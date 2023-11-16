@@ -1,1 +1,4 @@
-
+list[1,2,3,4,5]
+for elements in list:
+    if elements==3:
+        continue
