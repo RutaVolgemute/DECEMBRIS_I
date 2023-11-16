@@ -1,1 +1,8 @@
-
+list[rits,diena,vakars]
+for elements in list:
+  if elements==rits:
+print(labrīt!)
+  if elements==diena:
+print(labdien!)
+  if element==vakars:
+print(labvakar!)
